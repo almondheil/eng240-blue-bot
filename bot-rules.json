@@ -1,0 +1,165 @@
+{
+  "origin": [
+    "#line#"
+  ],
+  "line": [
+    "This #visual# potion #extra-detail#. If you drink it, it #positive#, but #negative#."
+  ],
+  "positive": [
+    "gives you the strength of #num-big# #men-animals#",
+    "grants the power of #power#",
+    "protects you from #threat#",
+    "allows you to speak any language",
+    "makes you grow a second set of arms"
+  ],
+  "negative": [
+    "it will kill you within #timespan#",
+    "you will turn into #creature.a# #maybe-forever#",
+    "you will become trapped in #bad-dimension# #maybe-forever#",
+    "it will turn your skin #color# for #timespan#",
+    "you will become a #undead# after #timespan#"
+  ],
+  "extra-detail": [
+    "smells of #smell#",
+    "has #floating-object# floating in it",
+    "is engraved with a symbol of #symbol.a#",
+    "seems to be boiling, even though there is no flame",
+    "is corked with what seems to be a human thumb"
+  ],
+  "undead": [
+    "zombie",
+    "skeleton",
+    "ghost",
+    "ghoul",
+    "wight"
+  ],
+  "power": [
+    "flight",
+    "shapeshifting",
+    "night vision",
+    "invisibility",
+    "true sight",
+    "creation",
+    "invincibility",
+    "great speed"
+  ],
+  "threat": [
+    "#creature.s#",
+    "#element#",
+    "ambush",
+    "all injury",
+    "hurt feelings",
+    "minor cuts and bruises"
+  ],
+  "element": [
+    "water",
+    "earth",
+    "wind",
+    "fire"
+  ],
+  "smell": [
+    "brimstone",
+    "wildflowers",
+    "creature musk",
+    "fresh rain",
+    "cut grass",
+    "rotten food",
+    "musty books"
+  ],
+  "men-animals": [
+    "men",
+    "#creature.s#"
+  ],
+  "visual": [
+    "shimmering",
+    "swirling",
+    "murky",
+    "#color",
+    "bright #color#",
+    "rich #color#",
+    "glowing",
+    "glowing #color#",
+    "bubbling"
+  ],
+  "floating-object": [
+    "miniature hearts",
+    "human hair",
+    "pieces of glitter",
+    "clumps of something #color#"
+  ],
+  "symbol": [
+    "axe",
+    "sword",
+    "eye",
+    "boulder",
+    "hammer",
+    "feather",
+    "#creature#"
+  ],
+  "color": [
+    "green",
+    "red",
+    "blue",
+    "orange",
+    "yellow",
+    "purple"
+  ],
+  "maybe-forever": [
+    "#forever#",
+    "for #timespan#"
+  ],
+  "forever": [
+    "forever",
+    "permanently",
+    "for the rest of your life"
+  ],
+  "creature": [
+    "bear",
+    "bee",
+    "otter",
+    "horse",
+    "fish",
+    "dog",
+    "cat",
+    "rat",
+    "goblin",
+    "troll",
+    "gnome",
+    "orc",
+    "#undead#"
+  ],
+  "bad-dimension": [
+    "a fairy court",
+    "an expansive void",
+    "hell",
+    "a liminal space",
+    "the underworld",
+    "the nine hells",
+    "the feywild",
+    "Grinnell, Iowa",
+    "a world of #element#"
+  ],
+  "timespan": [
+    "a hour",
+    "a day",
+    "a week",
+    "a month",
+    "a year",
+    "#num-small# hours",
+    "#num-small# days",
+    "#num-small# weeks",
+    "#num-small# months",
+    "#num-small# years"
+  ],
+  "num-small": [
+    "two",
+    "three",
+    "four",
+    "five"
+  ],
+  "num-big": [
+    "ten",
+    "one hundred",
+    "one thousand"
+  ]
+}
